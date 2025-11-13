@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Студия\\.nuget\\packages\\": {},
+    "C:\\Users\\clost\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Студия\\Documents\\c#\\App1\\appClient\\appClient.csproj",
+      "projectUniqueName": "C:\\documents\\c#\\App1\\AppASPDB\\appClient\\appClient.csproj",
       "projectName": "appClient",
-      "projectPath": "C:\\Users\\Студия\\Documents\\c#\\App1\\appClient\\appClient.csproj",
-      "packagesPath": "C:\\Users\\Студия\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Студия\\Documents\\c#\\App1\\appClient\\obj\\",
+      "projectPath": "C:\\documents\\c#\\App1\\AppASPDB\\appClient\\appClient.csproj",
+      "packagesPath": "C:\\Users\\clost\\.nuget\\packages\\",
+      "outputPath": "C:\\documents\\c#\\App1\\AppASPDB\\appClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Студия\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\clost\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
